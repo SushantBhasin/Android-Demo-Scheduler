@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WhatsappScheduler</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="frequency">
+        <item>Once</item>
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+    </string-array>
+</resources>
